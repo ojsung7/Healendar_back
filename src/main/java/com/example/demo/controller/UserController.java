@@ -18,7 +18,7 @@ import com.example.demo.entity.UserEntity;
 import com.example.demo.service.TodoService;
 import com.example.demo.service.UserService;
 
-//@CrossOrigin
+@CrossOrigin
 @RestController
 @RequestMapping("/main")
 public class UserController {

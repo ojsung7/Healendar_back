@@ -61,5 +61,4 @@ public class UserEntity {
 	public void setRoleEntity(RoleEntity roleEntity) {
 		this.roleEntity = roleEntity;
 	}
-	
 }
