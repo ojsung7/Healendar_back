@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.demo.entity.TodoEntity;
 import com.example.demo.service.TodoService;
 
-//@CrossOrigin
 @CrossOrigin
 @RestController
 @RequestMapping("/todo")
